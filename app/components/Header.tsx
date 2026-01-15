@@ -39,7 +39,7 @@ export function Header({
           borderRadius: '4px',
         }}
       >
-        HYDROGEN LIVE
+        HYDROGEN LIVE Juan
       </span>
       <HeaderMenu
         menu={menu}
